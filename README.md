@@ -1,10 +1,10 @@
 <p align="center">
 
 <a href="https://github.com/RAJPOOTHACKER0/RAJPOOT-BOT-MD/fork">
-<img src="https://img.shields.io/badge/FORK-RAJPOOT--BOT--MD-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/FORK-RAJPOOT--MD--BOT-blue?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/RAJPOOTHACKER0/RAJPOOT-BOT-MD">
+<a href="https://github.com/RAJPOOTHACKER0/RAJPOOT-MD-BOT">
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
