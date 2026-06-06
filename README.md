@@ -24,7 +24,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 ---
 
-# 👑 Team Bandaheali
+# 👑 RAJPOOT HACKER
 
 
 
