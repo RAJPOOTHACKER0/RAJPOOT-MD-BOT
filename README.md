@@ -4,21 +4,19 @@
 
 <p align="center">
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI/fork">
-<img src="https://img.shields.io/badge/FORK-SMD--MINI-blue?style=for-the-badge&logo=github">
+<a href="https://github.com/RAJPOOTHACKER0/RAJPOOT-MD-BOT">
+  <img src="https://img.shields.io/badge/GITHUB-RAJPOOT%20MD%20BOT-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
+<a href="https://github.com/RAJPOOTHACKER0">
+  <img src="https://img.shields.io/badge/PROFILE-RAJPOOTHACKER0-blue?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://smd-mini.bandaheali.site">
-<img src="https://img.shields.io/badge/DEPLOY-SMD--MINI-success?style=for-the-badge&logo=vercel">
+<a href="http://145.239.65.118:20377/">
+  <img src="https://img.shields.io/badge/DEPLOY-LIVE-success?style=for-the-badge&logo=vercel">
 </a>
 
 </p>
-
----
 
 # ✨ About RAJPOOT MD BOT
 **RAJPOOT MD BOT** is a fast, lightweight and powerful **WhatsApp Bot** built using **Baileys**.  
