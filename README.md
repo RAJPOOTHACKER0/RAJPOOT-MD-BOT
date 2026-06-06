@@ -28,23 +28,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 # 👑 Team Bandaheali
 
-<p align="center">
 
-<a href="https://github.com/MESHABAN45">
-<img src="https://img.shields.io/badge/MR--SHABAN-CEO-purple?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/iTx-Sarkar">
-<img src="https://img.shields.io/badge/RASHID-THE--DEVIL%20(Lead%20Developer)-red?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/Bandah-e-Ali">
-<img src="https://img.shields.io/badge/BANDAHEALI-DONATER%20%26%20SUPPORTER-blue?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
 
 # 📢 Official WhatsApp Channel
 
@@ -64,7 +48,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 # ⚡ Installation
 
 ```bash
-github.com/RAJPOOTHACKER0/RAJPOOT-MD-BOT.git
+git clone https://github.com/RAJPOOTHACKER0/RAJPOOT-MD-BOT.git
 cd RAJPOOT MD BOT
 npm install
 npm start
