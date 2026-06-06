@@ -1,0 +1,66 @@
+{
+  "name": "RAJPOOT MD BOT",
+  "version": "1.0.0",
+  "description": "RAJPOOT MD BOT WhatsApp Bot using Baileys and MongoDB",
+  "type": "commonjs",
+  "main": "index.js",
+
+  "engines": {
+    "node": "24.x",
+    "npm": ">=10"
+  },
+
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+  "author": "RAJPOOT HACKER",
+  "license": "MIT",
+
+  "keywords": [
+    "RAJPOOT MD BOT",
+    "MD",
+    "HACKER",
+    "RAJPOOT",
+    "NUMAN",
+    "RAJPOOT HACKER"
+  ],
+
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "gifted-btns": "latest",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.34.5",
+    "jimp": "^1.6.0",
+    "fs-extra": "^11.2.0",
+    "pino": "^8.19.0",
+    "@octokit/rest": "^20.0.2",
+    "cheerio": "^1.1.0",
+    "yt-search": "^2.12.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "wa-sticker-formatter": "^4.4.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "file-type": "^21.0.0",
+    "mongoose": "^8.2.0",
+    "moment-timezone": "^0.6.0",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7",
+    "node-cache": "^5.1.2",
+    "form-data": "^4.0.0",
+    "node-webpmux": "^3.2.0",
+    "google-tts-api": "^2.0.2",
+    "megajs": "latest",
+    "adm-zip": "latest",
+    "pg": "latest"
+  },
+
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
