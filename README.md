@@ -60,40 +60,11 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 # 🚀 Deployment Options
 
-<p align="center">
-  <!-- Deploy to Heroku Button -->
-  <a href="https://www.heroku.com/deploy?template=https://github.com/iTx-Sarkar/SMD-MINI">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Deploy to Render Button -->
-  <a href="https://render.com/deploy?repo=https://github.com/iTx-Sarkar/SMD-MINI">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Deploy to Koyeb Button -->
-  <a href="https://app.koyeb.com/deploy?name=smd-mini&type=git&repository=iTx-Sarkar%2FSMD-MINI&branch=main&builder=dockerfile&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=3900&env%5BBOT_NAME%5D=SMD-MiNi&env%5BNEWSLETTER_JID%5D=&env%5BPREFIX%5D=.&env%5BDATABASE_URL%5D=Enter Database Url&env%5BMENU_IMG%5D=https%3A%2F%2Fbandaheali-cdn.koyeb.app%2Fbandaheali%2Fteam.jpg&env%5BOWNER_NUMBER%5D=Team-bandaheali&env%5BSTATUS_REPLY_MSG%5D=Hello+from+bandaheali">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO-KOYEB-00A0DC?style=for-the-badge&logo=koyeb&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Get Postgres Database Button (Cockroach Labs) -->
-  <a href="https://cockroachlabs.cloud/">
-    <img src="https://img.shields.io/badge/GET-POSTGRES%20DATABASE-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white">
-  </a>
-</p>
-
----
 
 # ⚡ Installation
 
 ```bash
-git clone https://github.com/iTx-Sarkar/SMD-MINI
+github.com/RAJPOOTHACKER0/RAJPOOT-MD-BOT.git
 cd RAJPOOT MD BOT
 npm install
 npm start
